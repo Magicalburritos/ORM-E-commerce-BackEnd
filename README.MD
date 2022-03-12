@@ -1,6 +1,6 @@
 # E-commerce backend
 
-![GitHub](https://img.shields.io/github/license/Magicalburritos/E-commerce-BackEnd13)
+![GitHub](https://img.shields.io/github/license/Magicalburritos/ORM-E-commerce-BackEnd13)
 
 ## Description
 
